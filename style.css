@@ -1,0 +1,19 @@
+body {
+    background-color: #101010;
+    font-family: sans-serif;
+}
+a:link {
+    color: whitesmoke;
+}
+h1 {
+    
+    color: whitesmoke;
+    text-align: center;
+}
+h2 {
+    color: whitesmoke;
+    text-align: center;
+}
+p {
+    color: whitesmoke;
+}
