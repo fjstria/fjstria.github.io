@@ -11,18 +11,22 @@ body {
     background-color: var(--smokegray);
     font-family: sans-serif;
 }
+
 a:link {
     color: whitesmoke;
 }
+
 h1 {
     
     color: whitesmoke;
     text-align: center;
 }
+
 h2 {
     color: whitesmoke;
     text-align: center;
 }
+
 p {
     color: whitesmoke;
 }
