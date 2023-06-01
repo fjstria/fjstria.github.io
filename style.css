@@ -1,5 +1,14 @@
+:root {
+    --pastelred: #A36E70;
+    --pastelorange: #B48E76;
+    --pastelgreen: #A6C3BC;
+    --pastelblue: #8992A4;
+    --pastelpurple: #ACA2B6;
+    --smokegray: #202021;
+}
+
 body {
-    background-color: #101010;
+    background-color: var(--smokegray);
     font-family: sans-serif;
 }
 a:link {
