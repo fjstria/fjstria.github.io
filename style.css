@@ -9,7 +9,7 @@
 
 body {
     background-color: var(--smokegray);
-    font-family: sans-serif;
+    font-family: Verdana, Geneva, 'Arial Narrow', sans-serif;
 }
 
 a:link {
@@ -17,7 +17,6 @@ a:link {
 }
 
 h1 {
-    
     color: whitesmoke;
     text-align: center;
 }
